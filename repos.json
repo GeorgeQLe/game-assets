@@ -1,0 +1,89 @@
+{
+  "version": "1.0.0",
+  "repos": [
+    {
+      "name": "assets-2d-space",
+      "url": "https://github.com/GeorgeQLe/assets-2d-space",
+      "category": "2d",
+      "theme": "space",
+      "description": "2D space-themed game assets"
+    },
+    {
+      "name": "assets-2d-castle",
+      "url": "https://github.com/GeorgeQLe/assets-2d-castle",
+      "category": "2d",
+      "theme": "castle",
+      "description": "2D castle and medieval-themed game assets"
+    },
+    {
+      "name": "assets-2d-city",
+      "url": "https://github.com/GeorgeQLe/assets-2d-city",
+      "category": "2d",
+      "theme": "city",
+      "description": "2D city and urban-themed game assets"
+    },
+    {
+      "name": "assets-2d-nature",
+      "url": "https://github.com/GeorgeQLe/assets-2d-nature",
+      "category": "2d",
+      "theme": "nature",
+      "description": "2D nature-themed game assets"
+    },
+    {
+      "name": "assets-2d-isometric",
+      "url": "https://github.com/GeorgeQLe/assets-2d-isometric",
+      "category": "2d",
+      "theme": "isometric",
+      "description": "2D isometric game assets"
+    },
+    {
+      "name": "assets-3d-isometric",
+      "url": "https://github.com/GeorgeQLe/assets-3d-isometric",
+      "category": "3d",
+      "theme": "isometric",
+      "description": "3D isometric game assets"
+    },
+    {
+      "name": "assets-ui-elements",
+      "url": "https://github.com/GeorgeQLe/assets-ui-elements",
+      "category": "ui",
+      "theme": "elements",
+      "description": "Game UI elements"
+    },
+    {
+      "name": "assets-ui-icons",
+      "url": "https://github.com/GeorgeQLe/assets-ui-icons",
+      "category": "ui",
+      "theme": "icons",
+      "description": "Game UI icons"
+    },
+    {
+      "name": "assets-sfx",
+      "url": "https://github.com/GeorgeQLe/assets-sfx",
+      "category": "audio",
+      "theme": "sfx",
+      "description": "Game sound effects"
+    },
+    {
+      "name": "assets-music",
+      "url": "https://github.com/GeorgeQLe/assets-music",
+      "category": "audio",
+      "theme": "music",
+      "description": "Game music tracks"
+    },
+    {
+      "name": "assets-vfx-particles",
+      "url": "https://github.com/GeorgeQLe/assets-vfx-particles",
+      "category": "vfx",
+      "theme": "particles",
+      "description": "Game VFX and particle effects"
+    },
+    {
+      "name": "assets-fonts",
+      "url": "https://github.com/GeorgeQLe/assets-fonts",
+      "category": "fonts",
+      "theme": "typography",
+      "description": "Game-ready fonts with license metadata"
+    }
+  ]
+}
