@@ -58,11 +58,32 @@
       "description": "2D prototyping and development placeholder assets"
     },
     {
-      "name": "assets-3d-worlds",
-      "url": "https://github.com/GeorgeQLe/assets-3d-worlds",
+      "name": "assets-3d-city",
+      "url": "https://github.com/GeorgeQLe/assets-3d-city",
       "category": "3d",
-      "theme": "worlds",
-      "description": "3D game world assets (buildings, terrain, props, vehicles, kits)"
+      "theme": "city",
+      "description": "3D city and urban assets (roads, buildings, vehicles, suburban)"
+    },
+    {
+      "name": "assets-3d-nature",
+      "url": "https://github.com/GeorgeQLe/assets-3d-nature",
+      "category": "3d",
+      "theme": "nature",
+      "description": "3D nature assets (terrain, trees, rocks, water, foliage)"
+    },
+    {
+      "name": "assets-3d-space",
+      "url": "https://github.com/GeorgeQLe/assets-3d-space",
+      "category": "3d",
+      "theme": "space",
+      "description": "3D space assets (ships, stations, asteroids, planets)"
+    },
+    {
+      "name": "assets-3d-medieval",
+      "url": "https://github.com/GeorgeQLe/assets-3d-medieval",
+      "category": "3d",
+      "theme": "medieval",
+      "description": "3D medieval assets (castles, towers, siege, village)"
     },
     {
       "name": "assets-ui-elements",
@@ -79,11 +100,32 @@
       "description": "Game UI icons"
     },
     {
-      "name": "assets-sfx",
-      "url": "https://github.com/GeorgeQLe/assets-sfx",
-      "category": "audio",
-      "theme": "sfx",
-      "description": "Game sound effects"
+      "name": "assets-sfx-ui",
+      "url": "https://github.com/GeorgeQLe/assets-sfx-ui",
+      "category": "sfx",
+      "theme": "ui",
+      "description": "Game UI sound effects (clicks, hovers, notifications, menus)"
+    },
+    {
+      "name": "assets-sfx-combat",
+      "url": "https://github.com/GeorgeQLe/assets-sfx-combat",
+      "category": "sfx",
+      "theme": "combat",
+      "description": "Game combat sound effects (impacts, explosions, weapons, hits)"
+    },
+    {
+      "name": "assets-sfx-ambient",
+      "url": "https://github.com/GeorgeQLe/assets-sfx-ambient",
+      "category": "sfx",
+      "theme": "ambient",
+      "description": "Game ambient sound effects (environment, weather, atmosphere)"
+    },
+    {
+      "name": "assets-sfx-voice",
+      "url": "https://github.com/GeorgeQLe/assets-sfx-voice",
+      "category": "sfx",
+      "theme": "voice",
+      "description": "Game voiceover and vocal sound effects (callouts, grunts, dialogue)"
     },
     {
       "name": "assets-music",

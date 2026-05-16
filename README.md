@@ -19,7 +19,10 @@ Central catalog for all game asset repositories. Each repo follows a consistent 
 ### 3D Assets
 | Repo | Description |
 |------|-------------|
-| [assets-3d-worlds](https://github.com/GeorgeQLe/assets-3d-worlds) | 3D buildings, terrain, props, vehicles, kits |
+| [assets-3d-city](https://github.com/GeorgeQLe/assets-3d-city) | Roads, buildings, vehicles, suburban |
+| [assets-3d-nature](https://github.com/GeorgeQLe/assets-3d-nature) | Terrain, trees, rocks, water, foliage |
+| [assets-3d-space](https://github.com/GeorgeQLe/assets-3d-space) | Ships, stations, asteroids, planets |
+| [assets-3d-medieval](https://github.com/GeorgeQLe/assets-3d-medieval) | Castles, towers, siege, village |
 
 ### UI Assets
 | Repo | Description |
@@ -27,15 +30,18 @@ Central catalog for all game asset repositories. Each repo follows a consistent 
 | [assets-ui-elements](https://github.com/GeorgeQLe/assets-ui-elements) | Panels, buttons, cursors, badges, frames |
 | [assets-ui-icons](https://github.com/GeorgeQLe/assets-ui-icons) | Inventory, skills, status, navigation icons |
 
-### Audio
+### Sound Effects
 | Repo | Description |
 |------|-------------|
-| [assets-sfx](https://github.com/GeorgeQLe/assets-sfx) | Sound effects: impacts, UI, ambient, character, environment |
-| [assets-music](https://github.com/GeorgeQLe/assets-music) | Music tracks: ambient, battle, menu, exploration |
+| [assets-sfx-ui](https://github.com/GeorgeQLe/assets-sfx-ui) | Clicks, hovers, notifications, menus |
+| [assets-sfx-combat](https://github.com/GeorgeQLe/assets-sfx-combat) | Impacts, explosions, weapons, hits |
+| [assets-sfx-ambient](https://github.com/GeorgeQLe/assets-sfx-ambient) | Environment, weather, atmosphere |
+| [assets-sfx-voice](https://github.com/GeorgeQLe/assets-sfx-voice) | Voiceovers, callouts, grunts, dialogue |
 
-### VFX & Fonts
+### Music, VFX & Fonts
 | Repo | Description |
 |------|-------------|
+| [assets-music](https://github.com/GeorgeQLe/assets-music) | Music tracks: ambient, battle, menu, exploration |
 | [assets-vfx-particles](https://github.com/GeorgeQLe/assets-vfx-particles) | Explosions, trails, impacts, magic effects |
 | [assets-fonts](https://github.com/GeorgeQLe/assets-fonts) | Game-ready fonts with license metadata |
 
