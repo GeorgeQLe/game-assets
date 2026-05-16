@@ -37,11 +37,32 @@
       "description": "2D isometric game assets"
     },
     {
-      "name": "assets-3d-isometric",
-      "url": "https://github.com/GeorgeQLe/assets-3d-isometric",
+      "name": "assets-2d-characters",
+      "url": "https://github.com/GeorgeQLe/assets-2d-characters",
+      "category": "2d",
+      "theme": "characters",
+      "description": "2D game characters (toon, pixel, animated sprites)"
+    },
+    {
+      "name": "assets-2d-items",
+      "url": "https://github.com/GeorgeQLe/assets-2d-items",
+      "category": "2d",
+      "theme": "items",
+      "description": "2D generic game items (weapons, potions, loot, collectibles)"
+    },
+    {
+      "name": "assets-2d-prototyping",
+      "url": "https://github.com/GeorgeQLe/assets-2d-prototyping",
+      "category": "2d",
+      "theme": "prototyping",
+      "description": "2D prototyping and development placeholder assets"
+    },
+    {
+      "name": "assets-3d-worlds",
+      "url": "https://github.com/GeorgeQLe/assets-3d-worlds",
       "category": "3d",
-      "theme": "isometric",
-      "description": "3D isometric game assets"
+      "theme": "worlds",
+      "description": "3D game world assets (buildings, terrain, props, vehicles, kits)"
     },
     {
       "name": "assets-ui-elements",

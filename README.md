@@ -12,11 +12,14 @@ Central catalog for all game asset repositories. Each repo follows a consistent 
 | [assets-2d-city](https://github.com/GeorgeQLe/assets-2d-city) | Buildings, roads, vehicles, props |
 | [assets-2d-nature](https://github.com/GeorgeQLe/assets-2d-nature) | Trees, terrain, water, animals, foliage |
 | [assets-2d-isometric](https://github.com/GeorgeQLe/assets-2d-isometric) | Isometric tiles, buildings, props, characters |
+| [assets-2d-characters](https://github.com/GeorgeQLe/assets-2d-characters) | Toon, pixel, animated character sprites |
+| [assets-2d-items](https://github.com/GeorgeQLe/assets-2d-items) | Weapons, potions, loot, collectibles |
+| [assets-2d-prototyping](https://github.com/GeorgeQLe/assets-2d-prototyping) | Placeholder and development assets |
 
 ### 3D Assets
 | Repo | Description |
 |------|-------------|
-| [assets-3d-isometric](https://github.com/GeorgeQLe/assets-3d-isometric) | 3D isometric models, tiles, buildings, props |
+| [assets-3d-worlds](https://github.com/GeorgeQLe/assets-3d-worlds) | 3D buildings, terrain, props, vehicles, kits |
 
 ### UI Assets
 | Repo | Description |
