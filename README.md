@@ -24,6 +24,13 @@ Central catalog for all game asset repositories. Each repo follows a consistent 
 | [assets-3d-space](https://github.com/GeorgeQLe/assets-3d-space) | Ships, stations, asteroids, planets |
 | [assets-3d-medieval](https://github.com/GeorgeQLe/assets-3d-medieval) | Castles, towers, siege, village |
 
+### KayKit 3D Assets
+| Repo | Description |
+|------|-------------|
+| [assets-kaykit-3d-characters](https://github.com/GeorgeQLe/assets-kaykit-3d-characters) | Characters, rigs, animation sets, skeletons, mystery monthly characters |
+| [assets-kaykit-3d-environments](https://github.com/GeorgeQLe/assets-kaykit-3d-environments) | World, environment, terrain, dungeon, city, platformer, medieval, space base kits |
+| [assets-kaykit-3d-props](https://github.com/GeorgeQLe/assets-kaykit-3d-props) | Props, items, tools, weapons, furniture, resources, tabletop pieces, prototype bits |
+
 ### UI Assets
 | Repo | Description |
 |------|-------------|

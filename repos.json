@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "repos": [
     {
       "name": "assets-2d-space",
@@ -84,6 +84,27 @@
       "category": "3d",
       "theme": "medieval",
       "description": "3D medieval assets (castles, towers, siege, village)"
+    },
+    {
+      "name": "assets-kaykit-3d-characters",
+      "url": "https://github.com/GeorgeQLe/assets-kaykit-3d-characters",
+      "category": "3d",
+      "theme": "kaykit-characters",
+      "description": "KayKit 3D characters, rigs, animation sets, skeletons, and mystery monthly characters"
+    },
+    {
+      "name": "assets-kaykit-3d-environments",
+      "url": "https://github.com/GeorgeQLe/assets-kaykit-3d-environments",
+      "category": "3d",
+      "theme": "kaykit-environments",
+      "description": "KayKit 3D world, environment, terrain, dungeon, city, platformer, medieval, and space base kits"
+    },
+    {
+      "name": "assets-kaykit-3d-props",
+      "url": "https://github.com/GeorgeQLe/assets-kaykit-3d-props",
+      "category": "3d",
+      "theme": "kaykit-props",
+      "description": "KayKit 3D props, items, tools, weapons, furniture, resources, tabletop pieces, and prototype bits"
     },
     {
       "name": "assets-ui-elements",
