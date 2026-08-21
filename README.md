@@ -2,6 +2,10 @@
 
 Central catalog for all game asset repositories. Each repo follows a consistent structure with machine-readable manifests, license tracking, and tagged metadata.
 
+## Latest Kenney Refresh
+
+Synced through Kenney's release feed dated **2026-08-18**. This refresh added Pattern Pack Extra, Domino Pack, Mini Dungeon, Skyboxes, Mini Forest, Modular Cave Kit, Tiny Farm, and Flag Pack, and updated City Kit (Roads), Crosshair Pack, and Input Prompts.
+
 ## Repositories
 
 ### 2D Assets
