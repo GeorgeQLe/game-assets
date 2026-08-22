@@ -94,3 +94,11 @@ assets-<name>/
 4. Generate preview in `previews/`
 5. Add entry to `manifest.json` with all required fields
 6. Tag in `tags.json` or in the manifest entry
+
+## Refreshing Kenney Assets
+
+This repository tracks the repo-specific `$kenney-asset-refresh` Codex skill.
+Ask Codex to use it for a periodic check or to apply a refresh. The skill audits
+Kenney's official release feed, cross-references indexed manifests, imports new
+or updated packs into the appropriate asset repositories, and advances this
+catalog only after destination changes are validated and pushed.

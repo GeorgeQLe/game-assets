@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kenney Asset Refresh"
+  short_description: "Refresh the shared Kenney asset catalog"
+  default_prompt: "Use $kenney-asset-refresh to check for new or updated Kenney packs and refresh our asset repositories."
