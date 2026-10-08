@@ -53,6 +53,7 @@ Synced through Kenney's release feed dated **2026-08-18**. This refresh added Pa
 | Repo | Description |
 |------|-------------|
 | [assets-music](https://github.com/GeorgeQLe/assets-music) | Music tracks: ambient, battle, menu, exploration |
+| [assets-music-suno](https://github.com/GeorgeQLe/assets-music-suno) | Original Suno music, stingers and SFX for George's games (private, not CC0) |
 | [assets-vfx-particles](https://github.com/GeorgeQLe/assets-vfx-particles) | Explosions, trails, impacts, magic effects |
 | [assets-fonts](https://github.com/GeorgeQLe/assets-fonts) | Game-ready fonts with license metadata |
 

@@ -157,6 +157,14 @@
       "description": "Game music tracks"
     },
     {
+      "name": "assets-music-suno",
+      "url": "https://github.com/GeorgeQLe/assets-music-suno",
+      "category": "audio",
+      "theme": "music",
+      "description": "Original Suno-generated music, stingers and SFX for George's games (private, not CC0)",
+      "private": true
+    },
+    {
       "name": "assets-vfx-particles",
       "url": "https://github.com/GeorgeQLe/assets-vfx-particles",
       "category": "vfx",
